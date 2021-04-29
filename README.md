@@ -1,2 +1,2 @@
-# CororClock
+# ColorClock
 Colorored Clock changed realtime
